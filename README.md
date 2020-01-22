@@ -1,5 +1,5 @@
 # Simulating-Self-Driving-Cabs
-# Breif introduction to what this project tries to do
+# Brief introduction to what this project tries to do
 
 The Smart cab's job is to pick up the passenger at one location and drop them off in another location saving time by taking the shortest route while taking care of passenger’s safety and traffic rules.
 
