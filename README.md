@@ -20,21 +20,21 @@ Being a cab booking app company, exploiting the understanding of cab supply and 
 
 Objective of this project is to combine historical usage pattern along with the open data sources like weather data to forecast cab booking demand in a city.
 
-PROCESS FLOW:-
+PROCESS FLOW :-
 
 You will be provided with hourly renting data span of two years. Data is randomly divided into Train and  testset.
 You must predict the total count of cabs booked in each hour covered by the test set, using the information available prior to the booking period.
 You need to append the train_label dataset to train.csv as ‘Total_booking’ column.
 
-TASKS:-
+TASKS :-
 
 Following are the tasks, which need to be developed while executing the project:
 
-Task1:
+Task1 :-
 
 1) Train the model using Q learning algorithm on tax v3 environment
 
-Task2:
+Task2 :-
 
 1) We need to take text drom "sms.txt" and fetch pickup and drop from it.
 2) Generate the random state from an enviroment and change the pick up and drop as the fetched one
