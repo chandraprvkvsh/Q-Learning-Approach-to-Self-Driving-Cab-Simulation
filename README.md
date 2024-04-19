@@ -1,4 +1,3 @@
-# Simulating-Self-Driving-Cabs
 # Brief introduction
 
 Objective of this project was to simulate a self driving cab with the help of Reinforcement Learning methods
